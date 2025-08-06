@@ -1,4 +1,5 @@
-﻿Ini proyek pertamaku!
+STRUCTURE
 
-Hello
-Tes edit
+my-first-project/
+├── readme.txt
+├── notes.txt
